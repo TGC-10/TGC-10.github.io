@@ -1,2 +1,2 @@
-# TGC-10.gitgub.io
+# TGC-10.github.io
 跳转
